@@ -1193,3 +1193,4 @@
 {"body":{},"level":"info","message":"GET /users?page=2&limit=6","service":"user-service"}
 {"body":{},"level":"info","message":"GET /admin","service":"user-service"}
 {"body":{},"level":"info","message":"GET /users?page=2&limit=9","service":"user-service"}
+{"body":{},"level":"info","message":"GET /task","service":"user-service"}
